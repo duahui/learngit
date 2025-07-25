@@ -4,4 +4,5 @@ git change for once.
 git change for two.
 git track changes files
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+reating a new branch is quick AND simple.
+
