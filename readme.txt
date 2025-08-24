@@ -7,3 +7,8 @@ Creating a new branch is quick.
 reating a new branch is quick AND simple.
 test
 
+stash
+
+coiimi-one
+
+
