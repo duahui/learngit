@@ -5,13 +5,7 @@ git change for two.
 git track changes files
 Creating a new branch is quick.
 reating a new branch is quick AND simple.
-test
 
-stash
-dsfsd
-coiimi-one
-dgsfdg
-
-orin-modify
+origin
 
 
